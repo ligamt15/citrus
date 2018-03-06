@@ -10,7 +10,7 @@
     "nodemon": "^1.15.1"
   },
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "node index.js"
   },
   "engines": {
     "node": "8.9.4"
